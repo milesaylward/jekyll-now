@@ -2,9 +2,10 @@
 layout: post
 title: The Blog to end all Blogs!
 ---
-<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
 
 My journey to my first Blog post, and the battle to resist Pokemon Go!
+
+<link rel="stylesheet" type="text/css" href="/css/stylesheet.css">
 
 ![pokemon](/images/pokemon_blog.jpg)
 
