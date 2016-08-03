@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Portfolio
-permalink: /Portfolio/
+permalink: /portfolio/
 ---
 
 Currently designing websites for free to build my portfolio, if your interested follow me on twitter
