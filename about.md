@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Currently designing websites for free to build my portfolio, if your interested follow me on twitter
+Currently designing websites for free to build my portfolio, if your interested email me, or dm me on twitter
 
 
 ### More Information
@@ -13,4 +13,4 @@ Hello, My name is Miles Aylward. I am an ex-chef turned coder/web developer. At 
 
 ### Contact me
 
-[](mailto:email@domain.com)
+[thecodingirish@gmail.com](mailto:email@domain.com) 
