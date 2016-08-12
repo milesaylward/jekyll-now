@@ -1,8 +1,23 @@
 img[alt=pokemon]{
-	width: 200px;
+	width: 300px;
 	height: 200px;
 	float: left;
 	display: inline;
-	border-radius: 100px;
-	padding-right: 1.5em;
+	border-radius: 15px;
+	margin-right: 1.25em;
+	margin-bottom: 1.15em;
+}
+
+span #poke_paragraph{
+	padding-left: 1.25em;
+}
+
+img[alt=pokemon_logo]{
+	display: block;
+	max-height: 200px;
+	max-width: 600px;
+	padding: 0;
+	margin: auto;
+	margin-top: 0;
+	margin-bottom: 0;
 }
